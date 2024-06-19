@@ -1,0 +1,9 @@
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.active {
+    color: blue;
+    text-decoration: underline;
+}
